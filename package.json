@@ -37,7 +37,7 @@
     "winston": "^3.14.1"
   },
   "dependencies": {
-    "axios": "^1.7.3",
+    "axios": "^1.13.5",
     "winston-transport": "^4.7.1"
   },
   "packageManager": "pnpm@9.5.0-beta.0+sha512.c2e60e7ed04e459591c982f2760cd8f7d1f48fe1ca4d46ccbbf8377df1eb2d077ace1e9d334b06250dddf23c03b4562858f77992b9a3bb4a93355aefd173df32"
